@@ -1,0 +1,12 @@
+1.@Summary
+No Bridges, just find the water.
+2.Description
+Each number represents a rectangular island in the Archipelago.
+The number in itself identifies how many squares the island occupies.
+Islands can only touch each other diagonally and by touching they must form a network where no island is isolated from the others.
+In other words, every island must be touching another island diagonally and no group of islands must be separated from the others.
+Not all the islands you need to find are necessarily marked by numbers.
+Finally, no 2x2 square can be occupied by water only (just like Nurikabe).
+3.Tips
+a.Similar to Nurikabe, but with a different twist regarding the diagonally touching islands.
+b.Small numbers help, naturally. But also bigger islands are often constraint in shape.
