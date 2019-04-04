@@ -1,0 +1,15 @@
+﻿1. Summary
+Fill the board with ABC.
+1. Description
+In a similar way to ‘Skyscrapers’, your goal is to put the letters A B and C in the board.
+Each letter appears once in every row and column, however, differently than Skyscrapers, this time you’re told what letter you see first from the border.
+Since most puzzles can contain empty spaces, the hint on the border doesn’t always match the tile next to it.
+In the example, the hints on the left border are C-A-A-B.
+So the solution of the first column can be either C-A-.-B or C-.-A-B, leaving an empty space either in the second or third row.
+In the example, the solution has the space in the second row, first column, which also forces the next tile (second row, second column) to contain an ‘A’.
+Bigger puzzles can also contain the letter ‘D’. In these cases, the name of the puzzle is ‘Abcd’. Further on, you might also encounter ‘E’, ‘F’, etc.
+1. Common Mistakes
+The hint on the border tells you the FIRST letter you see from there. Not necessarily the one on the closest tile, which can be empty.
+1. Tips
+1. Start with letters that appear only once on the border.
+2. Remember that not only a letter can appear only once in every column and row, but it HAS to appear once!
