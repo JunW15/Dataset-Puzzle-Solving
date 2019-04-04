@@ -1,0 +1,8 @@
+﻿1. @Summary
+Now with Fences.
+1. Description
+This puzzle plays exactly like Box It Up, with a small difference.
+The numbers indicate an enclosed area, and the number itself tells you the length of the perimeter of the area.
+1. Tips
+1. Check Box It Up first.
+2. Many numbers can have completely different shaped areas.

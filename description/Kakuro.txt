@@ -1,0 +1,16 @@
+﻿1. @Summary
+Fill the board with number 1 to 9 according to the sum.
+1. Description
+Your goal is to write a number in every blank tile (those without a diagonal line)
+The numbers you see in the tiles with diagonal lines are hints in the form of sum.
+The small number in the top right corner tells you the sum of the digits to its right.
+The small number in the bottom left corner tells you the sum of the digits under it.
+You can enter digits ranging from 1 to 9. No same number should appear in a row or column.
+In some instances, in bigger puzzles, two separate lines of contiguous digits will be on the same row, however they will be separated by a diagonal-line tile.
+In this case the above rule doesn’t apply for the entire row: i.e. You could have the same digit in the left group of tiles and the right one.
+The same applies for columns.
+Tiles which have a diagonal line without numbers aren’t used in the game.
+1. Tips
+1. There are usually some points where a very large or small sum will force you to put only a range of numbers in a row or column.
+2. You will probably need to take notes with the numbers that can go in a tile very often.
+3. Kakuro can be a tad frustrating as you need a bit of “thinking-ahead” in some places, but it can be rewarding.

@@ -1,0 +1,10 @@
+﻿1. @Summary
+Lighten Up at Sea.
+1. Description
+Only apparently similar to Lighten Up, this time you’re at sea and you need to find the lighthouses that light the boats.
+Each boat has a number on it that tells you how many lighthouses are lighting it.
+A lighthouse lights all the tiles horizontally and vertically and doesn’t stop at boats or other lighthouses. A lighthouse lights at least one boat.
+Finally, no boat touches another boat or lighthouse, not even diagonally. No lighthouse touches another lighthouse as well.
+1. Tips
+1. Remember lighthouses don’t block themselves.
+2. Mark as empty as many tiles as possible when stuck.

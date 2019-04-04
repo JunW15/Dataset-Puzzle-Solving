@@ -1,0 +1,9 @@
+﻿1. @Summary
+Exactly one hundred.
+1. Description
+You are given a 3x3 or 4x4 square with digits in it.
+You have to add digits to some (or all) tiles, in order to produce the sum of 100 for every row and column.
+You can add digits before or after the given one.
+1. Tips
+1. Harder than it looks.
+2. Remember that especially on the 4x4 you won’t always have to add digits to all cells.

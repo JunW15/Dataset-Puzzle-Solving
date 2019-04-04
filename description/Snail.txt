@@ -1,0 +1,13 @@
+﻿1. Summary
+Follow the winding path with numbers 1, 2 and 3.
+2. Description
+The goal is to start at the entrance in the top left corner and proceed towards the center, leaving a trail of numbers.
+Numbers appear on the path in the sequence 1, 2, 3, 1, 2, 3… with some empty tiles in between and must follow these rules:
+   1. Trail Rule: The first number after entering in the snail is a 1 and the last before ending in the center is a 3. In between, the 1, 2, 3 sequence will be repeated, following the snail path.
+   2. Board Rule: Each row and column of the board (disregarding the snail path) must have exactly a 1, a 2 and a 3.
+As you can see from the example, not even the first tile must contain a digit, but the first number after entering the snail must be a 1.
+After that the 1, 2, 3 sequence repeats itself many times, with the last one being a 3 (not necessarily on the last tile).
+   1. Variant
+Some later levels will have numbers 1, 2, 3 and 4. You will see the number 4 on the top right.
+   1. Tips
+You might find it useful to count all possible spaces between the numbers already on the board, as well as the beginning and the end of the trail.

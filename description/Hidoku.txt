@@ -1,0 +1,8 @@
+﻿1. @Summary
+Jump from one neighboring tile to another and fill the board.
+1. Description
+Starting at tile number 1, reach the last tile (16 in the example) by jumping from tile to tile.
+When jumping from a tile, you can land on any tile around it, horizontally, vertically or diagonally touching.
+The goal is to jump on every tile, only once and reach the last tile.
+1. Tips
+1. You can note down sub-paths, even if it’s not linked to the tiles you already discovered.

@@ -1,0 +1,10 @@
+﻿1. @Summary
+Warning! Naval Mines in the water!
+1. Description
+There are actually no mines in the water, but this is a mix between ‘Minesweeper’ and ‘Battle Ships’.
+You must find the same set of ships like ‘Battle Ships’ (1x4,2x3,3x2,4x1).
+However this time the hints are given in the same form as ‘Minesweeper’, where a number tells you how many pieces of ship are around it.
+Usual Battle Ships rules apply!
+1. Tips
+1. Plays more similar to Minesweeper than Battle Ships.
+2. Some future levels (yet to be developed) might include the Super-Tanker.

@@ -1,0 +1,13 @@
+﻿1. @Summary
+Jump once on every tile, following the arrows
+1. Description
+Starting at tile number1, reach the last tile (16 in the example) by jumping from tile to tile.
+When jumping from a tile, you have to follow the direction of the arrow and land on a tile in that direction.
+Although you have to follow the direction of the arrow, you can land on any tile in that direction, not just the one next to the current tile.
+The goal is to jump on every tile, only once and reach the last tile.
+1. Interface
+You can find complete reference for the interface here.
+You can also make the spinner auto advance with the top and bottom arrow.
+1. Tips
+1. You can note down sub-paths where an arrow can only point to a tile, even if it’s not linked to the tiles you already discovered.
+2. Hidden Paths can be challenging, especially the 5x5 or 6x6 boards.

@@ -1,0 +1,12 @@
+﻿1. @Summary
+Where’s a god when you need one?
+1. Description
+Play like slitherlink:
+Draw a single looping path with the aid of the numbered hints. The path cannot have branches or cross itself.
+Each number in a tile tells you on how many of its four sides are touched by the path.
+With this added rule:
+In the end all the sheep must be corralled inside the loop, while all the wolves must be outside.
+1. Tips
+1. Can be pretty hard, practicing a lot of slitherlink definitely helps.
+2. Remember there must be a loop which has the sheep inside, so if you see a wolf far from the border it can be a good hint.
+3. Besides the obvious sheep/wolves separation points, try to follow how the seep area can develop.

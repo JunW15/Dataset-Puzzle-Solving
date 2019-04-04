@@ -1,0 +1,12 @@
+﻿1. @Summary
+Place Magnets on the board, respecting the orientation of poles.
+1. Description
+Each Magnet has a positive (+) and negative (-) pole.
+Every rectangle can either contain a Magnet or be empty.
+The number on the border tells you how many positive and negative poles you can see from there in a straight line.
+When placing a Magnet, you have to respect the rule that the same pole (+ and + / - and -) can’t be adjacent horizontally or vertically.
+In some levels, a few numbers on the border can be hidden.
+1. Tips
+1. Start either where there are lots of poles or where there is a 0.
+2. When you know a tile has either a + and -, consider that you already know the other half of the Magnet isn’t empty.
+3. Examining the rows or columns where there is a big difference in poles can be helpful at times.

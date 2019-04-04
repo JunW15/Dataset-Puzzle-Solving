@@ -1,0 +1,10 @@
+﻿1. @Summary
+Fill the Rooms with numbers, but take care of the Ripple Effect
+1. Description
+The goal is to fill the ‘Rooms’ you see on the board, with numbers 1 to Room size, so in the example, the top left Room, must have numbers 1,2,3,4 and 5.
+While doing this you must consider the ‘Ripple Effect’. The same number can only appear on the same row or column at a distance of the number itself.
+For example the top left 2 must be separated by another 2 on the same row by -at least- two tiles. This is the case in the solved example, where the next Room has a 2 on the fourth column.
+The same happens for the 2s in the two Rooms in the bottom row. The one on the right is forces and the one on the left must be one the corner in order to distance itself 2 tiles from the other.
+1. Tips
+1. Check the easy Rooms first, but note that sometimes it’s the bigger Rooms that yield more hints.
+2. Remember the same number must be separated -at least- by that number of tiles.

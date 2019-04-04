@@ -1,0 +1,20 @@
+﻿1. Summary
+   1. Play solo battleships, with the help of the numbers on the border.
+1. Description
+Standard rules of Battleships apply, but you are guessing the other player ships disposition, by using the numbers on the borders.
+Each number tells you how many ship or ship pieces you’re seeing in that row or column.
+Standard rules apply: a ship or piece of ship can’t touch another, not even diagonally.
+In each puzzle there are :
+1. 1 Aircraft Carrier (4 squares)
+2. 2 Destroyers (3 squares)
+3. 3 Submarines (2 squares)
+4. 4 Patrol boats (1 square)
+1. Variant
+Some puzzle can also have a
+1. 1 Supertanker (5 squares)
+In these cases, you will see it noted in the top right.
+1. Tips
+1. Start with the lines marked with 0.
+2. Try to find the Aircraft Carrier as there are only a few places where it can be.
+3. If you get bored by tapping multiple times a tile, check the Settings page for the possible upgrade (this feature is coming up).
+4. The touch interface can be fiddly for this games at times, you might want to zoom in or use the ‘undo’ button when pressing the wrong tile.

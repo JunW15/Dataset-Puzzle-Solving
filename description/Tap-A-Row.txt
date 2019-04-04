@@ -1,0 +1,8 @@
+﻿1. @Summary
+Tap me a row, please
+1. Description
+Plays with the same rules as Tapa with these variations:
+1. The numbers also tell you the filled cell count for that row.
+2. In other words the sum of the digits in that row equals the number or filled cells for that row.
+1. Variations
+1. Most Tapa tips are valid.

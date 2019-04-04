@@ -1,0 +1,10 @@
+﻿1. @Summary
+It seems we do a lot of gardening in this game!
+1. Description
+In Four-Me-Not (or Forbidden Four) you need to create a continuous flower bed without putting four flowers in a row.
+More exactly, you have to join the existing flowers by adding more of them, creating a single path of flowers touching horizontally or vertically.
+At the same time, you can’t line up horizontally or vertically more than 3 flowers (thus Forbidden Four).
+Some tiles are marked as squares and are just fixed blocks.
+1. Tips
+1. The original Japanese name of the puzzle is ‘Fobido 4’, from the Japanese pronunciation of ‘Forbidden Four’.
+2. Fixed Flowers are marked with a dot. You should also mark sure-empty tiles as soon as possible.

@@ -1,0 +1,12 @@
+﻿1. @Summary
+This time the campers wont’ have their way!
+1. Description
+This time the report is an island, the place is packed and the campers (Tents) must compromise!
+The board represents an Island, where there are a few Tents, identified by the numbers.
+Your job is to find the water surrounding the island, with these rules:
+1. There is only one, continuous Island.
+2. The numbers tell you how many tiles that camper can walk from his Tent, by moving horizontally and vertically. A camper can’t cross water or other Tents
+So in the example, the top left ‘2’ can walk one tile east, then one tile south, thus 1+1=2.
+1. Tips
+1. Please note there’s no 2x2 rule here as in Nurikabe.
+2. Try to work with two numbers together at a time.

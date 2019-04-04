@@ -1,0 +1,14 @@
+﻿1. @Summary
+Quilt the board, following the hints.
+1. Description
+The goal is to place triangles in some cells in the end generating a pattern similar to a Quilt.
+The numbered tiles tell you how many triangles share an edge with it, horizontally and vertically.
+For example, if a tile says 4, it has triangles all around it.
+If a tile says 1, it has only one triangle somewhere.
+Some tiles will remain blank and will form, along with the triangles, rectangles and squares.
+These can be tilted by 45 degrees.
+Some other tiles are filled but contain no number. These and the hints are the only tiles that can be completely filled.
+Rectangles or squares can’t touch orthogonally, but can touch diagonally.
+1. Tips
+1. Obviously start with 4’s, edges with 3’s or corners with 2’s and with 0’s.
+2. Rectangles can be quite long, but somehow the hints can reduce the possible size.

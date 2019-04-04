@@ -1,0 +1,9 @@
+﻿1. @Summary
+Darken some tiles so no number appears in a row or column more than once.
+1. Description
+The goal is to shade squares so that a number appears only once in a row or column.
+While doing that, you must take care that shaded squares don’t touch horizontally or vertically between them.
+In the end all the un-shaded squares must form a single continuous area.
+1. Tips
+1. Hitori can be solved in different ways, usually start where a number appears clustered.
+2. ‘L’ shaped areas with the same number are sometimes a good starting point.

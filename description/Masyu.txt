@@ -1,0 +1,23 @@
+﻿1. @Summary
+Draw a Necklace that goes through every Pearl.
+1. Description
+The goal is to draw a single loop (Necklace) through every circle (Pearl) that never branches-off or crosses itself.
+The rules to pass Pearls are:
+1. Lines passing through White Pearls must go straight through them.
+However, at least at one side of the White Pearl (or both), they must do a 90 degree turn.
+1. Lines passing through Black Pearls must do a 90 degree turn in them.
+Then, they must go straight for the next tile in both directions.
+                Lines passing where there are no Pearls can do what they want.
+                If you have trouble understanding these rules try to figure this:
+                On a Black Pearl, always perform a 90 degree turn.
+                On a White Pearl, always go straight.
+                Then, after having this clear, remember:
+                Before and after the Black Pearl, you can’t turn, you have to go straight.
+                Before OR after the White Pearl, there must be AT LEAST one turn.
+1. Tips
+1. Start at the angles or borders and look for Black Pearls.
+2. After a while, you might notice that White Pearls give you even more info than Black Pearls.
+1. Interface
+1. Drag -slowly- to toggle lines.
+2. You can also tap between tiles to toggle a line segment (and zoom for bigger levels)
+3. This puzzle doesn’t allow taking Notes when holding your finger on a tile.

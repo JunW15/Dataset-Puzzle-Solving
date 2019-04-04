@@ -1,0 +1,8 @@
+﻿1. @Summary
+Tap Landscaper
+1. Description
+Plays with the same rules as Tapa with these variations:
+1. Each row must have a different number of filled cells.
+2. Each column must have a different number of filled cells.
+1. Variations
+1. Most Tapa tips are valid.

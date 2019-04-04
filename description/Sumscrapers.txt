@@ -1,0 +1,8 @@
+﻿1. @Summary
+Sum the Skyline!
+1. Description
+Please play ‘Skyscrapers’ first, as this is a variation of that game.
+All the rules about ‘Skyscrapers’ are valid, but the numbers you see on the borders tell you the SUM of the heights of the Skyscrapers you see.
+1. Tips
+1. In the example, the 10 must be the sum of 1,2,3 and 4 – in that order.
+2. And remember you’re ALWAYS seeing the highest (4), so it’s always included in the sum. So, when the sum is 4..

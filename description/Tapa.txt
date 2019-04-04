@@ -1,0 +1,16 @@
+﻿1. @Summary
+Turkish Art of Paint (TAPA)
+1. Description
+The goal is to fill some tiles forming a single orthogonally continuous path. Just like Nurikabe.
+A number indicates how many of the surrounding tiles are filled. If a tile has more than one number, it hints at multiple separated groups of filled tiles.
+For example a cell with a 1 and 3 means there is a continuous group of 3 tilled cells around it and one more single filled cell, separated from the other 3. The other of the numbers in this case is irrelevant.
+A question mark can hint at any number of filled tiles (more than zero)
+Filled tiles can’t cover an area of 2x2 or larger (just like Nurikabe). Tiles with numbers can be considered ‘empty’.
+1. Variations
+   Tapa has plenty of variations. Some are available in the levels of this game. Stronger variations are B-W Tapa, Island Tapa and Pata and have their own game.
+1. Equal Tapa – The board contains an equal number of thite and black tiles. Tiles with numbers or question marks are NOT counted as empty or filled for this rule (i.e. they’re left out of the count).
+2. Four-Me-Tapa – Four-Me-Not rule apply: you can’t have more than three filled tiles in line.
+3. No-Square Tapa – No 2x2 area of the board can be left empty.
+1. Tips
+1. Nurikabe is very useful
+2. Most of the times multiple numbers hint clearly at possible configurations.

@@ -1,0 +1,10 @@
+﻿1. @Summary
+Puzzle Fever
+1. Description
+On the board a few Thermometers are laid down. Your goal is to fill them according to the hints.
+In a Thermometer, mercury always starts at the bulb and can progressively fill the Thermometer towards the end.
+A Thermometer can also be completely empty, including the bulb.
+The numbers on the border tell you how many filled sections are present on that on that Row or Column.
+1. Tips
+1. First, check large numbers, or zeros
+2. Thermometers orientation matters a lot.

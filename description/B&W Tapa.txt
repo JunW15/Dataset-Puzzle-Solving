@@ -1,0 +1,8 @@
+﻿1. @Summary
+Black and White Tapas.
+1. Description
+Plays with the same rules as Tapa with these variations:
+1. Both Black and White cells must form a single continuous region.
+2. There can’t be any 2x2 of white or black cells.
+1. Tips
+1. Most Tapa tips are valid.

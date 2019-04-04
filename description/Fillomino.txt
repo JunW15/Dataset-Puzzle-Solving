@@ -1,0 +1,20 @@
+﻿1. @Summary
+Detect areas marked by their extension
+1. Description
+The goal is to detect areas marked with the tile count of the are itself.
+So for example, areas marked ‘1’, will always consist of one single tile. Areas marked with ‘2’ will consist of two (horizontally or vertically) adjacent tiles.
+This numbered ‘3’ will appear in group of three and so on.
+Two areas with the same number can’t be horizontally or vertically touching.
+Lastly, please note that some areas can also be totally hidden at the start. In the example you can see a ‘1’ which wasn’t hinted in the initial setup.
+1. Variation
+Fillomino has several variants, you can see it in the top right part of the screen.
+1. No Rectangles: Areas can’t form Rectangles
+2. Only Rectangles: Areas can ONLY form Rectangles.
+3. Non-Consecutive: Areas can’t touch another area which has +1 or -1 as number (orthogonally).
+4. Consecutive: Areas MUST touch another area which has +1 or -1 as number (orthogonally).
+5. No Row or Column Repeats: Different areas with the same number can’t appear on the same column or row.
+6. All Odds: There are only odd numbers on the board.
+7. All Evens: There are only even numbers on the board.
+1. Tips
+1. Start with smaller or forced areas.
+2. In some places an area would become too big if it touched an area with the same number.

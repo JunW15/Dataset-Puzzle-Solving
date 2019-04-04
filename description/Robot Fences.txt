@@ -1,0 +1,9 @@
+﻿1. @Summary
+BZZZZliip …cows?
+1. Description
+A bit like Robot Crosswords, you need to fill each region with a randomly ordered sequence of numbers.
+Numbers can only be in range 1 to N where N is the board size.
+No same number can appear in the same row or column.
+1. Tips
+1. Try Robot Crosswords first.
+2. Use notes, when possible

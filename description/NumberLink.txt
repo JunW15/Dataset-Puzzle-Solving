@@ -1,0 +1,17 @@
+﻿1. @Summary
+Connect the same numbers without crossing paths.
+1. Description
+Connect the couples of equal numbers (i.e. 2 with 2, 3 with 3, etc.) with a continuous line.
+The line can only go horizontally or vertically and can’t cross itself or other lines.
+Lines must originate on a number and must end in the other equal number.
+At the end of the puzzle, you must have covered ALL the squares with lines and no line can cover a 2*2 area (like a 180 degree turn).
+In other words you can’t turn right and immediately right again. The same happens on the left, obviously. Be careful not to miss this rule.
+1. Variant
+1. In some levels there will be a note that tells you don’t need to cover all the squares
+2. In some levels you will have more than a couple of the same number. In these cases, you must connect ALL the same numbers together.
+1. Tips
+1. Check the more distant numbers as they often need to do a winding path.
+1. Interface
+1. Drag *slowly* to toggle lines.
+2. You can also tap between tiles to toggle a line segment (and zoom for bigger levels).
+3. This puzzle doesn’t allow taking Notes when holding you finger on a tile.

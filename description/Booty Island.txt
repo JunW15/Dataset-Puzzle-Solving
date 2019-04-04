@@ -1,0 +1,13 @@
+﻿1. @Summary
+Overcrowded Piracy
+1. Description
+Overcrowded by Greedy Pirates ™, this Island has Treasures buried almost everywhere and the relative maps scattered around.
+In fact there’s exactly one Treasure for each row and for each column.
+On the Island you can see maps with a number: there tell you how many steps are required, horizontally or vertically, to reach a Treasure.
+For how stupid the Pirates are, they don’t bury their Treasures touching each other, even diagonally, however at times they are so stupid that two or more maps point to the same Treasure.
+1. Bigger Islands
+On bigger Islands, there will be two Treasures per row and column (indicated on the top right)
+In this case, the number on the map doesn’t necessarily point to the closest Treasure on that row or column.
+1. Tips
+1. Try a lot of Parks first. Botanical Park is also similar, with a comparable level of difficulty.
+2. Some Islands look a bit empty, just like Botanical Park, but in the end there are sufficient clues.
