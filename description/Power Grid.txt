@@ -7,9 +7,7 @@ The numbers on the side tell you the length of the cables between the two Posts 
 Or in other words, the number of empty tiles between two Posts.
 Posts cannot touch themselves, not even diagonally.
 Please note that Posts don’t have to form a single connected ‘chain’.
-1. Variant
-On some levels, there are exactly two Posts in the two main diagonals too (the two diagonal lines forming a big X).
-You will see these levels marked with DIAGONAL, on the top right of the level.
+
 1. Tips
 1. Can become quite hard. Try practicing Clouds and other similar games.
 2. Start with big numbers and remember the distance indicated is the exact space between Posts.

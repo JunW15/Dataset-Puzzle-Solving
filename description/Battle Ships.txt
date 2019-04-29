@@ -9,10 +9,6 @@ In each puzzle there are :
 2. 2 Destroyers (3 squares)
 3. 3 Submarines (2 squares)
 4. 4 Patrol boats (1 square)
-1. Variant
-Some puzzle can also have a
-1. 1 Supertanker (5 squares)
-In these cases, you will see it noted in the top right.
 1. Tips
 1. Start with the lines marked with 0.
 2. Try to find the Aircraft Carrier as there are only a few places where it can be.

@@ -7,3 +7,13 @@ In the inner board regular Sudoku rules apply, except that in some levels you on
 1. Tips
 1. Try to familiarize well with Skyscrapers first.
 2. As in Skyscrapers, start with very low or very high hints.
+
+The rule of Skyscarpers(The central grid represents a city, as seen from above. Each square contains a Skyscraper, of different height.
+The goal is to guess the height of each Skyscraper.
+Skyscrapers height ranges from 1 to the size of the city: thus in the example Skyscrapers are numbered from 1 (lowest) to 4 (highest).
+Each row and column can’t have two similar Skyscrapers.
+Outside the city, on the borders, the numbers indicate the ‘Skyline’.
+The skyline tells you how many Skyscrapers you can see from there (looking inside the city), keeping in mind that a higher Skyscraper hides a lower one.
+Harder levels can hide some numbers.)
+
+Sudoku(Standard Sudoku rules apply, i.e. you need to fill the board with numbers 1 to 9 in every row, column and area, without repetitions.)

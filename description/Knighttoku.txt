@@ -10,3 +10,5 @@ Even further, you will find levels that have NO areas.
 1. Tips
 1. You might want to use Notes quite often.
 2. ‘Knightoku’, ‘Odds are Even’, ‘Consecutives’ and ‘More or Less’ are pretty close variants of Sudoku, however they can even appeal to those who don’t like the base game, especially in later levels.
+
+Sudoku(Standard Sudoku rules apply, i.e. you need to fill the board with numbers 1 to 9 in every row, column and area, without repetitions.)

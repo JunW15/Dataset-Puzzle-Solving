@@ -6,3 +6,10 @@ All the rules about ‘Skyscrapers’ are valid, but the numbers you see on the 
 1. Tips
 1. In the example, the 10 must be the sum of 1,2,3 and 4 – in that order.
 2. And remember you’re ALWAYS seeing the highest (4), so it’s always included in the sum. So, when the sum is 4..
+
+Skyscraper(The central grid represents a city, as seen from above. Each square contains a Skyscraper, of different height.
+The goal is to guess the height of each Skyscraper.
+Skyscrapers height ranges from 1 to the size of the city: thus in the example Skyscrapers are numbered from 1 (lowest) to 4 (highest).
+Each row and column can’t have two similar Skyscrapers.
+Outside the city, on the borders, the numbers indicate the ‘Skyline’.
+The skyline tells you how many Skyscrapers you can see from there (looking inside the city), keeping in mind that a higher Skyscraper hides a lower one.)
