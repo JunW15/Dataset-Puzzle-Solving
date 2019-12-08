@@ -1,0 +1,21 @@
+﻿1. Summary
+Please divert your course 12+1+2 to avert collision
+2. Description
+Play like Solo Battle Ships, with a difference.
+Each nnumber on the outer border tells you the SUM of the ship or ship pieces you're seeing in that row or column.
+A ship or ship piece is worth the number it occupies on the board.
+Standard rules apply: a ship or piece of ship can't touch another, not even diagonally.
+In each puzzle there are :
+1. 1 Aircraft Carrier (4 squares)
+2. 2 Destroyers (3 squares)
+3. 3 Submarines (2 squares)
+4. 4 Patrol boats (1 square)
+3. Variant
+Some puzzle can also have a
+1. 1 Supertanker (5 squares)
+In these cases, you will see it noted in the top right.
+4. Tips
+a. Start with the lines marked with 0.
+b. Big or small sums can restrict the available places where you can mark a ship.
+c. Try to find the Aircraft Carrier as there are only a few places where it can be.
+d. If you get bored by tapping multiple times a tile, check the Settings page for the possible upgrade (this feature is coming up).

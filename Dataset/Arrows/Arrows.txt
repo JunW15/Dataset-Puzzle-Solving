@@ -1,0 +1,10 @@
+﻿1. @Summary
+Just Arrows?
+2. Description
+The goal is to detect the Arrows directions that reside outside the board.
+Each Arrow points to -at least- one number inside the board.
+The numbers tell you how many Arrows point at them.
+There is one Arrow for each tile outside the board.
+3. Tips
+a. Looks like skyscraper but it's not similar in gameplay.
+b. Try Hidden Start first.

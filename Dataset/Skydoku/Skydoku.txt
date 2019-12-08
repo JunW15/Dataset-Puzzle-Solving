@@ -1,0 +1,9 @@
+﻿1. @Summary
+Takes Sudoku to new heights!
+2. Description
+Plays like a cross between Sudoku and Skyscrapers.
+Hints on the borders tell you - like Skyscrapers- how many buildings you see from there.
+In the inner board regular Sudoku rules apply, you need to fill the board with numbers 1 to 9 in every row, column and area, without repetitions, except that in some levels you only have numbers 1 to 8.
+3. Tips
+a. Try to familiarize well with Skyscrapers first.
+b. As in Skyscrapers, start with very low or very high hints.

@@ -1,0 +1,22 @@
+int: row; 
+set of int: Row = 1..row;
+int: column; 
+set of int: Column = 1..column;
+array[Row,Column] of -1..row+column: Board;
+array[Row,Column] of var 0..1:Solution;
+output [ show(Solution[i,j]) ++ if j == column then "\n" else " " endif 
+        |i in Row, j in Column];
+constraint forall(i in Row, j in Column where Board[i,j]>-1)(Solution[i,j] == 0);
+test visible(int: i1, int: j1, int: i2, int: j2) = 
+    ((i1 == i2) /\ forall(j in (min(j1,j2) +1)..(max(j1,j2) -1 ))(Board[i1,j] == -1))
+    \/
+    ((j1 == j2) /\ forall(i in (min(i1,i2) + 1)..(max(i1,i2) -1))(Board[i,j1] == -1));
+solve satisfy;
+
+
+
+constraint forall(i in Row, j in Column where Board[i,j] > -1)(
+             (sum(j1 in Column where visible(i,j,i,j1) /\ Solution[i,j1] == 1)(1)) +
+             (sum(i1 in Row where visible(i,j,i1,j) /\ Solution[i1,j] == 1)(1)) == Board[i,j]);
+
+constraint forall(i in Row, j in Column where Solution[i,j]==1)(sum(i1 in Row)(Board[i1,j]>-1)+sum(j1 in Column)(Board[i,j1]>-1) >0);

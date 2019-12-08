@@ -1,0 +1,11 @@
+﻿1. @Summary
+Excuse me sir? Do you know where the Harpagophytum Procumbens is?
+2. Description
+The board represent a Botanical Park, with arrows pointing to the different plants.
+Each arrow points to at least one plant and there is exactly a plant in every row and in every column.
+Plants cannot touch, not even diagonally.
+3. Important
+Puzzles with side 9 or bigger have TWO trees in every row and column. 
+4. Tips
+a. Try Parks and Hidden Starts first.
+b. Look for tight spots.

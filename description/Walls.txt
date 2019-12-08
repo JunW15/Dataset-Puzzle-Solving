@@ -1,9 +1,0 @@
-﻿1. @Summary
-Find the maze of Bricks.
-1. Description
-This game plays similar to ‘Branches’.
-However, this time, you have lines of Walls branching from the numbers, which tell you the total length of Wall segments connected to it.
-The main difference with Branches, is that Wall pieces only have two ways to be put, horizontally or vertically.
-Lastly, not every Wall piece must be connected with a number, but the board must be filled with Wall pieces.
-1. Tips
-1. You can mark a number with a circle by tapping on it, when you have discovered all its branches, but this is optional and not needed to solve the puzzle.

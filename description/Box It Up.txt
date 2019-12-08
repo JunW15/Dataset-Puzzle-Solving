@@ -1,8 +1,0 @@
-﻿1. @Summary
-Numbered Areas Interval.
-1. Description
-A simple puzzle where you have to divide the Board in Boxes (Rectangles).
-Each Box must contain one number and the number represents the area of that Box.
-1. Tips
-1. Please note this puzzle can be considered easier than the average.
-2. Sometimes it’s useful to calculate multiples of the board side.

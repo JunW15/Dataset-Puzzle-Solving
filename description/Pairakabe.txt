@@ -1,8 +1,0 @@
-﻿1. @Summary
-Just to confuse things a bit more.
-1. Description
-Plays like Nurikabe, with an interesting twist.
-Instead of just one number, each ‘garden’ contains two numbers and the area of the garden is given by the sum of both.
-1. Tips
-1. Close pairs and small numbers are a good starting point.
-2. More challenging than Nurikabe.

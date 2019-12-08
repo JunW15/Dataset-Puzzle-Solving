@@ -1,9 +1,0 @@
-﻿1. @Summary
-Which is a little Tatami
-1. Description
-Plays like Fillomino, in which you have to guess areas on the board marked by their number.
-In Tatamino, however, you only have areas 1,2 and 3 tiles big.
-Please remember two areas of the same number can’t be touching.
-1. Tips
-1. The main difference with Fillomino is that even big boards only have three numbers.
-2. Tiles marked with one are already self – defined areas.

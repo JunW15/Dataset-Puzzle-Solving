@@ -1,0 +1,12 @@
+1.@Summary
+More seafaring puzzles
+2. Description
+Similar to Lighthouses, you're still at sea and you need to find the lighthouses that light the boats.
+Each boat has a number on it that tells you how many Lighthouses are lighting it.
+A Lighthouse lights all the tiles horizontally and vertically.
+Differently than 'Lighthouses', its light is stopped by the first boat it meets.
+A lighthouse lights at least on boat.
+Differently than 'Lighthouses', lighthouses can touch boats and other Lighthouses.
+3. Tips
+Remember Lightouses don't block themselves.
+Harder than it looks. Try Lighthouses first.

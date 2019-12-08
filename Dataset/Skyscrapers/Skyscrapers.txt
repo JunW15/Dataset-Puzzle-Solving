@@ -1,0 +1,18 @@
+﻿1. Summary
+Guess Skyscrapers from the Skyline.
+2. Description
+The central grid represents a city, as seen from above. Each square contains a Skyscraper, of different height.
+The goal is to guess the height of each Skyscraper.
+Skyscrapers height ranges from 1 to the size of the city: thus in the example Skyscrapers are numbered from 1 (lowest) to 4 (highest).
+Each row and column can't have two similar Skyscrapers.
+Outside the city, on the borders, the numbers indicate the 'Skyline'.
+The skyline tells you how many Skyscrapers you can see from there (looking inside the city), keeping in mind that a higher Skyscraper hides a lower one.
+Harder levels can hide some numbers.
+Please check the Tutorial for a few examples and clarifications.
+3. Common mistakes
+Remember: the hint on the border tells you how many Skyscrapers you see from there.
+Instead a digit on the board (city) represents how tall that building is!
+4. Tips
+   a. Try to find places where you see one Skyscraper or all of them.
+   b. Remember a Skyscraper height can only appear once in each row and column.
+   c. If you like this, check 'Sumscrapers' too, further on.

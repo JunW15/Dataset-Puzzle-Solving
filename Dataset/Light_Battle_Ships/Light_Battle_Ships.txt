@@ -1,0 +1,17 @@
+﻿1. @Summary
+Please divert your course 15 degrees to avoid collision
+2. Description
+A mix of Battle Ships and Lighthouses, you have to guess the usual piece of ships with the help of Lighthouses.
+Each number is a Lighthouse, telling you how many pieces of ship there are in that row and column, summed together.
+A ship or ship piece is worth the number it occupies on the board.
+Ships cannot touch each other OR touch Lighthouses. Not even diagonally.
+In each puzzle there are :
+a. 1 Aircraft Carrier (4 squares)
+b. 2 Destroyers (3 squares)
+c. 3 Submarines (2 squares)
+d. 4 Patrol boats (1 square)
+3. Variant As in Battle Ships some levels have a Supertanker, which you will see in the top right corner.
+4. Tips
+a. Remember to fill blank space with dots.
+b. Lighthouses themselves occupy a big chunk of water...
+c. If you get bored by tapping multiple times a tile, check the Settings page for the possible upgrade.

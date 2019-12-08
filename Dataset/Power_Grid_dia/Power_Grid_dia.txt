@@ -1,0 +1,13 @@
+1.	@Summary
+Utility Posts
+2.	Description
+Your task is to identify Utility Posts of a power Grid.
+There are two Posts in each Row and in each Column.
+The numbers on the side tell you the length of the cables between the two Posts (in that Row or Column).
+Or in other words, the number of empty tiles between two Posts.
+Posts cannot touch themselves, not even diagonally.
+There are exactly two Posts in the two main diagonals too (the two diagonal lines forming a big X).
+Please note that Posts don't have to form a single connected 'chain'.
+3.	Tips
+a.	Can become quite hard. Try practicing Clouds and other similar games.
+b.	Start with big numbers and remember the distance indicated is the exact space between Posts.

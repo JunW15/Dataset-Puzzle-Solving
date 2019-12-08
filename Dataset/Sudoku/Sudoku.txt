@@ -1,0 +1,7 @@
+1. Summary
+Sudoku
+2. Description
+you need to fill the board with numbers 1 to 9 in every row, column and area, without repetitions.
+The goal is to fill the board with numbers 1 to 9, following those rules:
+a.	each number can only appear once in each row and column.
+b.	each number can only appear once in 3*3 sub area.

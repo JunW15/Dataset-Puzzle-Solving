@@ -1,0 +1,11 @@
+1. @Summary
+Spot the Number
+2. Description
+Place all numbers from 1 to N on each row and column - just once, without repeating.
+In other words all numbers from 1 to N must appear just once on each row and column.
+A circle marks where a number must go.
+A cross marks where no number can go.
+All other cells can contain a number or be empty.
+3. Tips
+Try to eliminate possible rows/columns by using the circles.
+You can also use Sudoku techniques.

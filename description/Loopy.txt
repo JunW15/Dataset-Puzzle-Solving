@@ -1,9 +1,0 @@
-﻿1. @Summary
-Loop a loop! And touch all the dots!
-1. Description
-Similar to Slitherlink, draw a single looping path. This time however there are no numbers, but you have to touch all the dots. As usual, the path cannot have branches or cross itself.
-This game initially seems a slight variation of Slitherlink, but it requires different techniques and reasoning.
-It might seem easy at start, but harder levels can be challenging. It’s also one of the few puzzles without numbers, letters or symbols. 
-1. Tips
-1. Check the corners..
-2. ..Or similar situations!

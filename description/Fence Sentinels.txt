@@ -1,9 +1,0 @@
-﻿1. @Summary
-We used to guard a castle, you know?
-1. Description
-The goal is to draw a single, uninterrupted, closed loop, similar to slitherlink.
-The loop goes around all the numbers.
-The numbers tell you how many cells you can see horizontally and vertically from there, including the cell itself (like Wall Sentinels)
-1. Tips
-1. Start with large numbers.
-2. Inside/Outside can be pretty challenging.

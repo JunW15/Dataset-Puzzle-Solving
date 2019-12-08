@@ -1,0 +1,8 @@
+﻿1. @Summary
+You know the drill :).
+2. Description
+Find the mines on the field.
+Numbers tell you how many mines there are close by, touching that number horizontally, vertically or diagonally.
+3. Tips
+a. You can mark a number as 'completed' with a circle.
+b. Practice on the PC first :)

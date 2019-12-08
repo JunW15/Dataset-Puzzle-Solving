@@ -1,0 +1,17 @@
+1.	@Summary
+Each Camper wants his shade. But his privacy too!
+2.	Description
+The board represents a camping area with some Trees, under which Campers want to set their Tent.
+This means they want to set their Tent horizontally or vertically or diagonally adjacent to a Tree.
+At the same time they need their privacy, so a Tent can't have another Tent touching, not even diagonally.
+Numbers on the borders tell you the total number of Tents there are in that row or column. 
+Harder levels can hide some numbers.
+Finally, keep in mind these two rules:
+a.	Each Tree has at least one Tent touching it, horizontally or vertically or diagonally.
+b.	There's the same exact number of Trees and Tents in the Camping Area.
+3.	Common Mistakes
+If you think you've found another solution for a level, please remember:
+a.	A Tree must have at least one Tent touching it, horizontally or vertically or diagonally!
+Again, if you think the game doesn't accept a valid solution, triple check everything. We can assure you all the levels in the game have only one solution!
+4.	Tips
+Start by marking empty rows and columns and then check those with a lot of Tents or with very few Trees nearby.

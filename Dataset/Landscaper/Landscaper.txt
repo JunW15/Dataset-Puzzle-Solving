@@ -1,0 +1,15 @@
+﻿1. @Summary
+Plant Trees and Flowers with enough variety.
+2. Description
+Your goal as a Landscaper is to plant some Trees and Flowers on the field, in every available tile.
+In doing this, you must assure the scenery is varied enough:
+a. No more than two consecutive Trees or Flowers should appear horizontally or vertically.
+b. Every row and column must have an equal number of Trees and Flowers.
+c. Each row disposition must be unique, i.e. the same arrangement of Trees and Flowers can't appear on two rows.
+d. Each column disposition must be unique as well.
+3. Odd-size levels
+Please note that in odd-sided levels, the number of Trees and Flowers obviously won't be equal on a row or column, however each row and column will have the same number of Flowers and Trees.
+Also, the number of Trees will always be greater that than that of Flowers (i.e. 3 Flowers and 4 Trees, 4 Flowers and 5 Trees, etc.)
+4. Tips
+a. Don't forget the uniqueness rule, as this is often the best hint to progress.
+b. If you see a space between two Trees or two Flowers, you already know what goes there.

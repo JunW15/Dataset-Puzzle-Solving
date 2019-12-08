@@ -1,0 +1,9 @@
+1. @Summary
+Each Arrow points to a Star and every Star has an arrow pointing at it.
+2. Description
+In the board you have to find the hidden Stars.
+Each stars must be pointed by one and only one Arrow, and each Arrow points to at least one Star.
+The numbers on the border tells you how many Stars there are in that row or column.
+3. Tips
+a. Remember that if a tile has no Arrow pointing at it, it must be empty.
+b. At the same time an Arrow must have at least one Star in its path, but not necessarily just one.

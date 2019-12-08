@@ -1,0 +1,9 @@
+﻿1. @Summary
+Multiplicative Towers
+2. Description
+Plays like 'Sentinels' (see rules) with this exception:
+The numbers describe the 'Product' instead of the Sum, of the two directions.
+In the example, the middle '20' Sentinel is seeing 4 tiles vertically and 5 tiles horizontally: 4x5 =20.
+3. Tips
+a. Obviously try Sentinels first!
+b. Remember the restrictions are that there must be a single continuous Garden, and two Towers can't touch horizontally or vertically.

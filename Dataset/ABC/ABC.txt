@@ -1,0 +1,15 @@
+﻿1. Summary
+Fill the board with ABC.
+2. Description
+In a similar way to 'Skyscrapers', your goal is to put the number 1 2 and 3 in the board.
+Each letter appears once in every row and column, however, differently than Skyscrapers, this time you're told what letter you see first from the border.
+Since most puzzles can contain empty spaces, the hint on the border doesn't always match the tile next to it.
+In the example, the hints on the left border are 3-1-1-2.
+So the solution of the first column can be either 3-1-.-2 or 3-.-1-2, leaving an empty space either in the second or third row.
+In the example, the solution has the space in the second row, first column, which also forces the next tile (second row, second column) to contain an '1'.
+Bigger puzzles can also contain the letter '4'. In these cases, the name of the puzzle is '1234'. Further on, you might also encounter '5', '6', etc.
+3. Common Mistakes
+The hint on the border tells you the FIRST letter you see from there. Not necessarily the one on the closest tile, which can be empty.
+4. Tips
+	a. Start with letters that appear only once on the border.
+	b. Remember that not only a letter can appear only once in every column and row, but it HAS to appear once!

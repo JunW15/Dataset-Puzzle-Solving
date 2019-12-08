@@ -1,8 +1,0 @@
-﻿1. @Summary
-Keep Boxing Stuff.
-1. Description
-A harder variation to ‘Box It Up’, where you still have to divide the board in Boxes (Rectangles/Squares).
-Each Box must contain one number, but this time the number represents the SUM of its WIDTH and HEIGHT.
-Check the example: 6 hints to 3 width +3 height. The 4 is made by 3 height +1 width. The 5 by 4 width +1 height.
-1. Tips
-1. While similar to Box It Up and Fence It Up, this can be a tad trickier.

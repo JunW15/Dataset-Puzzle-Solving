@@ -1,0 +1,12 @@
+﻿1. @Summary
+Place lightbulbs to light up all the room squares
+2. Description
+What you see from above is a room and the marked squares are walls.
+The goal is to put lightbulbs in the room so that all the blank(non-wall) squares are lit, following these rules:
+a. Lightbulbs light all free, unblocked, squares horizontally and vertically.
+b. A lightbulb can't light another lightbulb.
+c. Walls block light. Also walls with a number tell you how many lightbulbs are adjacent to it, horizontally and vertically.
+d. Walls without a number can have any number of lightbulbs. However, lightbulbs don't need to be adjacent to a wall.
+3. Tips
+a. Try to use the walls first, then you'll notice the light of the lightbulbs you placed will give you more hints.
+b. Remember that lightbulbs can be far away from a wall.

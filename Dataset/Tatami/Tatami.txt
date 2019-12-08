@@ -1,0 +1,10 @@
+﻿1. @Summary
+1,2,3...1,2,3...Fill the mats.
+2. Description
+Each rectangle represents a mat (Tatami) which can be of different size. In the example you must fill each Tatami with a number ranging from 1 to 3.
+Each number can appear only once in each Tatami.
+In one row or column, each number must appear the same number of times. In the example, you should have two 1s, two 2s and two 3s in each row and column.
+You can't have two identical numbers touching horizontally or vertical.
+3. Tips
+a. Start by just looking for touching numbers, to force some combinations
+b. Later, you should check that along a line or column, a full Tatami can force the remaining tiles to contain a particular number.

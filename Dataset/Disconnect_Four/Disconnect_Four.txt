@@ -1,0 +1,9 @@
+1. @Summary
+Win by not winning!
+2. Description
+The opposite of the famous game 'Connect Four', where you must line up four tokens of the same colour.
+In this puzzle you have to ensure that there are no more than three tokens of the same colour lined up horizontally, vertically or diagonally.
+3. Tips
+Just start where there are three tokens lined up already.
+Landscaper and Four-Me-Not are good practice for this.
+

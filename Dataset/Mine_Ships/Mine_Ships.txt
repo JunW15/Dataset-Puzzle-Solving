@@ -1,0 +1,16 @@
+﻿1. @Summary
+Warning! Naval Mines in the water!
+2. Description
+There are actually no mines in the water, but this is a mix between 'Minesweeper' and 'Battle Ships'.
+You must find the same set of ships like 'Battle Ships' (1x4,2x3,3x2,4x1).
+However this time the hints are given in the same form as 'Minesweeper', where a number tells you how many pieces of ship are around it.
+Usual Battle Ships rules apply!
+a ship or piece of ship can't touch another, not even diagonally.
+In each puzzle there are :
+a. 1 Aircraft Carrier (4 squares)
+b. 2 Destroyers (3 squares)
+c. 3 Submarines (2 squares)
+d. 4 Patrol boats (1 square)
+3. Tips
+a. Plays more similar to Minesweeper than Battle Ships.
+b. Some future levels (yet to be developed) might include the Super-Tanker.

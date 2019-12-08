@@ -1,0 +1,11 @@
+﻿1. @Summary
+Cloud Kakuro on a Skycraper.
+2. Description
+Kakurasu implement several other game rules.
+On the bottom and right border, you see the value of (respectively) the columns and the rows. For example the first column is worth 1 point, while the last one 4 points. Same goes for rows.
+On the other borders, on the top and the left, you see the hints about which tiles have to be filled on the board. These numbers represent the sum of the values mentioned above.
+For example the first column says '7' because (see solution) the tiles valued with 1,2 and 4 are marked (1+2+4=7).
+Another example, for the second row, to have 5 the cells marked with 1 and 4 are filled (1+4=5). Instead, on the next row the cells marked with 2 and 3 are filled (2+3=5).
+3. Tips
+a. Especially in small boards, there are very few combinations at times for big or small numbers.
+b. Kakuro training helps!

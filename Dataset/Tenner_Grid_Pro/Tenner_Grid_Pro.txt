@@ -1,0 +1,11 @@
+1.	@Summary
+Counting up to 10.
+2.	Description
+Your goal is to enter every digit, from 1 to 10, in each row of the Grid.
+The number on the bottom row gives you the product for that column.
+Digits can repeat on the same column, however digits in contiguous tiles must be different, even diagonally. Obviously digits can't repeat on the same row.
+To put a number on the board, select it from the list on the bottom and tap the tile.
+3.	Tips
+a.	Start where you have more numbers available, but also check high or low sums.
+b.	Remember you can't put two identical numbers in two consecutive tiles, not even diagonally.
+

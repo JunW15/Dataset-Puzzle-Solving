@@ -1,0 +1,10 @@
+1. @Summary
+Digital Crosswords
+2. Description
+Find the numbers in the board.
+Numbers connot touch each other, not even diagonally.
+On the top ad left of the grid, you're given how many numbers are in that column or row.
+On the bottom and right of the grid, you're given the sum of the numbers on that column or row.
+3. Tips
+a. Try to eliminate sums that cannot be reached with some low numbers.
+b. Or single numbers that are bigger than a sum.
